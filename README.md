@@ -21,8 +21,8 @@ ML Tlachac, Ricardo Flores, Miranda Reisch, Katie Houskeeper, and Elke A. Runden
 * Data and Code: https://github.com/mltlachac/DepreST-CAT
 * More information: https://emutivo.wpi.edu/index.php/data/
 
-  ## Code Resources
+## Code Resources
   
-  We used the following amazing tutorials in the preparation of our code:
-  * https://jbhender.github.io/Stats506/F18/GP/Group15.html
-  * https://www.pymc.io/projects/examples/en/latest/case_studies/BEST.html
+We used the following amazing tutorials in the preparation of our code:
+* https://jbhender.github.io/Stats506/F18/GP/Group15.html
+* https://www.pymc.io/projects/examples/en/latest/case_studies/BEST.html
